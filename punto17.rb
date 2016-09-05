@@ -2,6 +2,8 @@ fibonacci=[0,1]
 
  34.times do |i|
   if (i>1)
-    fibonacci.push(fibonacci[i-1]+ fibonacci[i-2])
+    fibonacci.push(fibonacci[i-1] + fibonacci[i-2])
 end
 end
+fibonacci.delete_at(0)
+p fibonacci
