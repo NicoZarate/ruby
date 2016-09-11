@@ -1,0 +1,2 @@
+mal acceso al hash ficha [jugador] deberia ser a[:jugador]
+el metodo shuffle hace un radom del arreglo, no me cierra para el juego dentro de un until jajaja
