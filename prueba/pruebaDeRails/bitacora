@@ -1,0 +1,3 @@
+.pirmer paso genero mi priçoyecto rails con el comando "rails new nombreProyecto"
+.descomento  "gem 'therubyracer', platforms: :ruby"
+.crear un nuevo controlador "rails generate controller welcome index" con esto creamos un controlador , su accion y la vista 
